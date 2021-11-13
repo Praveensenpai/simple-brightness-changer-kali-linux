@@ -4,7 +4,7 @@
 A Simple python script to change Brightness in Linux
 
 
-
+Brightness value : 0.1 - 1 or 2
 
 
 ## Requirements
